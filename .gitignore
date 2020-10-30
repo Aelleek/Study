@@ -113,5 +113,5 @@ dist
 #
 
 #PyCharm 
-.idea/*
+.idea/
 Python/Framework/Flask/.idea
