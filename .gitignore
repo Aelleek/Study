@@ -114,4 +114,5 @@ dist
 
 #PyCharm 
 .idea/
-/Python
+*.idea
+
