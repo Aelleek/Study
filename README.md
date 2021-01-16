@@ -1,2 +1,6 @@
 # Study
 Programming Language Study
+
+Study Repo에 있는 내용을 깃 블로그로 옮기는중...
+
+옮기면서 정리하자......
